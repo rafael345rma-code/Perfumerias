@@ -2,6 +2,7 @@
   "name": "König Wert - Tienda de Perfumes Exclusivos",
   "description": "Tienda online premium de perfumes exclusivos König Wert. Tu esencia, tu presencia.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
-
